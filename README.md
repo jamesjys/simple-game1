@@ -1,3 +1,1 @@
-﻿# simple-game1
 
-just wanna make some game
